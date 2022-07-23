@@ -5,7 +5,7 @@ public class Chapter04 {
 		String str;
 		str = "福谷";
 		System.out.println(str);
-		str = "亮介";
+		str = "一蓮托生";
 		System.out.println(str);
 		final int num = 7;
 		System.out.println(num);

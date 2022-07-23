@@ -3,7 +3,6 @@ INDEX VERSION 1.131+/Users/fukutaniryousuke/Desktop/wcp/.metadata/.plugins/org.e
 1766563293.index
 256812016.index
 3876822774.index
-3834228031.index
 4240340501.index
 1865797976.index
 1981182379.index
