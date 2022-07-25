@@ -14,7 +14,7 @@ public class Chapter07 {
 		}
 
 		// Switch文練習問題
-		String color = "red";
+		String color = "yellow";
 		switch (color) {
 		case "red":
 			System.out.println("赤信号です");
